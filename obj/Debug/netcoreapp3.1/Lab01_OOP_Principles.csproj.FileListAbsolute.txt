@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\bin\Debug\netcoreapp3.1\Lab01_OOP_Principles.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\bin\Debug\netcoreapp3.1\Lab01_OOP_Principles.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\bin\Debug\netcoreapp3.1\Lab01_OOP_Principles.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\bin\Debug\netcoreapp3.1\Lab01_OOP_Principles.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\bin\Debug\netcoreapp3.1\Lab01_OOP_Principles.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\bin\Debug\netcoreapp3.1\Lab01_OOP_Principles.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\obj\Debug\netcoreapp3.1\Lab01_OOP_Principles.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\obj\Debug\netcoreapp3.1\Lab01_OOP_Principles.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\obj\Debug\netcoreapp3.1\Lab01_OOP_Principles.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\obj\Debug\netcoreapp3.1\Lab01_OOP_Principles.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab01_OOP_Principles\obj\Debug\netcoreapp3.1\Lab01_OOP_Principles.pdb
